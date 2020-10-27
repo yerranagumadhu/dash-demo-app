@@ -1,17 +1,12 @@
 # dash-demp-app
-Dash-demp-app
-
-virtualenv venv
-
-# Windows
+1) Clone the Repository: git clone https://github.com/plotly/dash-demo-app
+2) Create a Vitrual Enivornment: virtualenv venv
+3) Activate the Virtaul Environment: 
+Windows
 venv\Scripts\activate
-# Or Linux
+Linux
 source venv/bin/activate
 
-git clone https://github.com/plotly/dash-demo-app
+4) Install the packages from the Requirements file: pip install -r requirements.txt
 
-cd dash-demo-app/
-
-pip install -r requirements.txt
-
-python index.py
+5) Run the Dash app: python index.py
