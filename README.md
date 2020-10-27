@@ -9,7 +9,9 @@ venv\Scripts\activate
 source venv/bin/activate
 
 git clone https://github.com/plotly/dash-demo-app
+
 cd dash-demo-app/
+
 pip install -r requirements.txt
 
 python index.py
