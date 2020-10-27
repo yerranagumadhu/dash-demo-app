@@ -1,4 +1,4 @@
-# dash-demp-app
+# dash-demo-app
 1) Clone the Repository: git clone https://github.com/plotly/dash-demo-app
 2) Create a Vitrual Enivornment: virtualenv venv
 3) Activate the Virtaul Environment: 
