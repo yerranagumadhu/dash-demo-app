@@ -10,3 +10,5 @@ source venv/bin/activate
 4) Install the packages from the Requirements file: pip install -r requirements.txt
 
 5) Run the Dash app: python index.py
+
+6) If you have installed any new Package and want to freeze the packages: pip freeze -l > requirements.txt
